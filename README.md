@@ -1,4 +1,4 @@
-![logo](https://github.com/soniareactdeveloper/soniareactdeveloper/blob/main/Github.png)
+
 <h1 align="center">Hi 👋, I'm Sonia Akter</h1>
 <h3 align="center">A passionate React developer</h3>
 
