@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-personal-wine.vercel.app/](https://portfolio-personal-wine.vercel.app/)
-
 - 💬 Ask me about **React,Vanila Js,HTML AND CSS**
 
 - 📫 How to reach me **https://github.com/soniareactdeveloper**
